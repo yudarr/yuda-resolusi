@@ -4,4 +4,4 @@ Resolusi
 - mempelajari frontend
 - menambah skill
 - mempelajari backend
-- mempelajari macam-macam
+- mempelajari html
