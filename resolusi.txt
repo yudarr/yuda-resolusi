@@ -3,3 +3,5 @@ Resolusi
 - mempelajari web design
 - mempelajari frontend
 - menambah skill
+- mempelajari backend
+- mempelajari macam-macam
